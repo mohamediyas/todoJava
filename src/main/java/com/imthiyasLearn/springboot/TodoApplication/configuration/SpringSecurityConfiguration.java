@@ -19,6 +19,8 @@ public class SpringSecurityConfiguration {
 //	InMemoryUserDetailsManager
 //	InMemoryUserDetailsManager(UserDetails... users)
 	
+//	this is a second beans
+	
 	@Bean
 	public InMemoryUserDetailsManager createUserDetailsManager() {
 	
